@@ -1,0 +1,62 @@
+body {
+ background-color: #ff033e;
+}
+
+h1#CONTROLLEDOPPOSITIONELIBRARY {
+ padding-top:10px;
+ padding-bottom:10px;
+ border-left:dotted;
+ border-right:dotted;
+ border-top:solid;
+ border-bottom:solid;
+ color:yellow;
+ text-align: center;
+ text-decoration:underline;
+}
+
+h1#EBOOKSHELF {
+ color:yellow;
+ border-top:solid;
+ border-bottom:solid;
+ vertical-align:top; 
+ float:left;
+}
+
+h1#HOME {
+ color:yellow;
+ border-top:solid;
+ border-bottom:solid;
+ vertical-align:top;
+ float:right;
+}
+
+h2#GROUPEDBYTOPIC {
+ border-bottom:groove 14px #e52b50;
+ padding-top:10px;
+ color:yellow;
+}
+
+table#shelf {
+ table-layout: auto;
+ width: 100%;
+ border-left:dotted;
+ border-right:dotted;
+}
+
+a {
+ color:yellow;
+}
+
+h3 {
+ color:white;
+ border-top:dotted;
+ text-shadow: 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+
+footer {
+ border-bottom:groove 14px #e52b50;
+}
+
+div#BOOKS {
+ padding-top:90px;
+}

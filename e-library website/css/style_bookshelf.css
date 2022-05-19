@@ -1,0 +1,25 @@
+body {
+ background-color: #ff033e;
+}
+
+h1#CONTROLLEDOPPOSITIONELIBRARY {
+ color:yellow;
+ text-align: center;
+ text-decoration:underline;
+}
+
+h1#EBOOKSHELF {
+ color:yellow;
+ border-top:solid;
+ border-bottom:solid;
+}
+
+h2#GROUPEDBYTOPIC {
+ color:yellow;
+ text-decoration:underline;
+}
+
+table#shelf {
+ table-layout: auto;
+ width: 100%;
+}
