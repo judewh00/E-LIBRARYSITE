@@ -60,3 +60,20 @@ footer {
 div#BOOKS {
  padding-top:90px;
 }
+
+div#portal {
+ table-layout: auto;
+ width: 100%;
+ border-left:dotted;
+ border-right:dotted;
+}
+
+h1#portal1 {
+ color:yellow;
+ width:100%;
+ border-top:dotted;
+ vertical-align:top;
+ text-align:center;
+}
+ 
+ 
