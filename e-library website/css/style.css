@@ -65,8 +65,7 @@ div#BOOKS {
 }
 
 div#portal {
- table-layout: auto;
- width: 100%;
+
  border-left:dotted;
  border-right:dotted;
 }
